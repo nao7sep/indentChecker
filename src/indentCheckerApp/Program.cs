@@ -1,6 +1,6 @@
 ﻿using System.Text;
 
-namespace indentChecker
+namespace indentCheckerApp
 {
     class Program
     {

@@ -1,6 +1,6 @@
 using System.Text;
 
-namespace indentChecker
+namespace indentCheckerApp
 {
     /// <summary>
     /// Loads a UTF-8 text file, splits into lines, trims each line, and stores non-empty lines.

@@ -1,6 +1,6 @@
 using System.Text.Json;
 
-namespace indentChecker
+namespace indentCheckerApp
 {
     /// <summary>
     /// Loads a JSON file mapping file extensions or full paths to arbitrary string values.

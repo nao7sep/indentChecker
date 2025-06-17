@@ -1,4 +1,4 @@
-namespace indentChecker
+namespace indentCheckerApp
 {
     public enum IndentMode
     {

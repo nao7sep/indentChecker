@@ -1,4 +1,4 @@
-namespace indentChecker
+namespace indentCheckerApp
 {
     /// <summary>
     /// Provides static methods for colored console output.
