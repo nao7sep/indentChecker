@@ -1,0 +1,2 @@
+# List of ignored full paths (directories or files)
+# Lines starting with # are comments
